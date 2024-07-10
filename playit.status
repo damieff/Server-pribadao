@@ -1,1234 +1,1162 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720547788243 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720638939568 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547791360 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720638942653 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547794463 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720638945697 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547797538 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720638948747 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547800607 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720638951815 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547803669 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720638954903 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547806785 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720638957992 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547809874 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720638961036 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547813043 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720638964133 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547816199 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720638967273 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547819348 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720638970342 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547822526 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720638973405 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547825572 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720638976467 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547828685 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720638979521 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547831780 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720638982560 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547834832 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720638985623 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547837988 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720638988758 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547841099 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720638991881 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547844171 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720638994968 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547847219 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720638998019 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547850305 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639001068 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547853378 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639004178 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547856439 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639007238 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547859491 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639010278 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547862540 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639013469 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547865577 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639016518 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547868649 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639019600 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547871703 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639022642 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547874767 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639025682 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547877828 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639028770 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547880887 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639031841 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547883941 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639034886 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547887088 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639037952 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547890229 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639040995 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547893307 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639044049 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547896388 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639047104 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547899506 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639050171 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547902636 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639053274 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547905683 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639056373 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547908826 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639059432 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547911988 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639062596 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547915053 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639065677 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547918138 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639068732 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547921197 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639071803 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547924312 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639074847 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547927406 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639077890 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547930530 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639080995 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547933628 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639084052 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547936756 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639087170 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547939817 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639090237 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547942864 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639093302 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547945958 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639096361 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547949126 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639099413 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547952188 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639102464 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547955239 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639105524 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547958374 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639108621 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547961463 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639111685 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547964652 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639114780 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547967693 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639117852 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547970736 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639120915 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547973786 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639123967 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547976829 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639127036 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547979977 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639130093 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547983107 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639133177 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547986187 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639136229 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547989295 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639139292 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547992345 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639142395 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547995427 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639145464 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720547998465 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639148532 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548001644 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639151630 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548005110 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639154726 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548008505 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639157790 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548011715 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639160889 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548014862 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639163976 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548018211 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639167031 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548021374 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639170073 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548024860 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639173131 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548028110 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639176197 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548031243 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639179304 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548034321 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639182364 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548037452 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639185412 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548040567 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639188460 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548043662 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639191498 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548046761 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639194562 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548051355 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639197612 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548055614 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639200683 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548058744 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639203914 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548061895 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639206958 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548064969 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639210058 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548068040 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639213112 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548071105 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639216177 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548074220 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639219221 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548077275 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639222279 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548080353 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639225458 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548083406 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639228519 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548086517 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639231571 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548089589 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639234638 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548092636 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639237676 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548095686 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639240744 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548098808 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639243838 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548101844 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639246901 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548104921 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639249981 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548107986 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639253109 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548111052 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639256204 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548114158 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639259252 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548117226 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639262367 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548120273 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639265466 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548123319 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639268529 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548126388 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639271589 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548129446 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639274665 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548132567 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639277731 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548135643 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639280826 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548138739 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639283876 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548141921 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639286964 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548145031 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639290027 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548148116 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639293085 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548151162 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639296148 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548154258 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639299240 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548157369 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639302307 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548160578 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639305367 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548163669 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639308455 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548166721 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639311511 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548169774 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639314583 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548172863 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639317639 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548175962 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639320748 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548179016 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639323829 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548182092 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639326925 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548185275 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639330005 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548188365 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639333077 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548191422 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639336119 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548194493 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639339206 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548197625 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639342350 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548200682 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639345457 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548203764 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639348524 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548206977 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639351567 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548210215 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639354623 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548213331 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639357750 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548216483 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639360808 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548219594 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639363879 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548222708 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639367006 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548225799 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639370119 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548228933 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639373180 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548232074 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639376265 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548235195 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639379346 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548238306 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639382452 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548241416 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639385594 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548244512 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639388724 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548247569 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639391795 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548250665 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639394888 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548253750 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639397943 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548256795 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639400987 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548259894 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639404040 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548262950 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639407090 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548265994 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639410158 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548269067 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639413213 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548272144 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639416287 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548275213 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639419395 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548278276 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639422433 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548281322 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639425476 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548284397 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639428528 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548287526 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639431626 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548290588 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639434756 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548293640 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639437805 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548296770 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639440857 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548299958 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639443954 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548303235 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639447041 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548306410 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639450105 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548309498 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639453167 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548312610 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639456324 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548315694 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639459435 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548318752 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639462483 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548321809 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639465604 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548324850 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639468673 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548328039 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639471720 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548331147 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639474809 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548334193 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639477871 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548337276 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639480948 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548340326 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639483992 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548343371 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639487070 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548346555 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639490118 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548349675 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639493176 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548352745 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639496221 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548355873 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639499334 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548358953 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639502457 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548362037 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639505642 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548365098 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639508719 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548368189 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639511808 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548371340 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639514851 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548374517 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639517909 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548377622 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639521000 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548380746 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639524071 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548383806 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639527135 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548386906 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639530320 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548390031 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548393072 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548396229 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548399327 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548402429 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548405492 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548408557 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548411621 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548414691 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548417748 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548420798 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548423853 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-red-campbell.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-simple-sodium.gl.at.ply.gg:2256 => 127.0.0.1:2256 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720548426907 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720639533418 tunnel running, 2 tunnels registered
 
 
 TUNNELS
